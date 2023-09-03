@@ -7,7 +7,7 @@ import Sweetalert2 from 'sweetalert2';
 import logo from '../../components/images/logo.png';
 import AppointmentValidator from "./AppointmentValidations";
 
-import './CSS/MakeDocApmt.css'
+//import './CSS/MakeDocApmt.css'
 
 
 export default function UserMakeDocApmt() {
